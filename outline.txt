@@ -1,0 +1,17 @@
+about
+   cv (NOT RESUME)
+   contact info
+   socials
+   
+
+
+project divs
+   interactions
+   mobile responsive
+
+project pages
+   1 page per project
+   could be short or long
+   cover photo
+   description
+   demo
